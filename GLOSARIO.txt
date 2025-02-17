@@ -1,0 +1,47 @@
+GLOSARIO
+
+compotamientos: seràn todas las operaciones del objeto,suelen ser verbos o sustantivos.
+
+
+Modularidad, es cuando un còdigo es reutilizable oh la dividimos en partes.
+
+
+
+sistema de adopcion de un perro
+
+
+
+clase: perro
+nombre:
+
+
+raza:
+tamaño:
+
+Administrador
+cliente
+animal
+veterinario
+Espediente medico
+
+
+
+
+analizando objeto ubers
+
+Drive:                   Ganancias.
+Cliente ,                ID:Nombre,pago
+vehiculo                 ID: marca,color,placa, tipo.
+ruta                FK   ID_ruta: Punto A punto B  
+precio                   ID_pago: tarjeta o efectivo 
+ 
+
+
+
+
+
+
+
+
+
+
